@@ -1,0 +1,11 @@
+Mercoledì 07 aprile 2021 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- FreeCAD: a shared macro story -
+
+Percorso di pubblicazione di una macro,
+che è entrata a far parte del "macro recipes" di FreeCAD.
+L'incontro vuole essere un invito a partecipare alla vita di FreeCAD,
+uno dei progetti Open Source più attivi e dinamici nell'ambito del CAD 3D.
+A cura di Simone Bignetti, membro del Lugotto e
+appassionato di informatica libera.

@@ -1,0 +1,21 @@
+Domenica 29 settembre 2013 il Lugotto veniva iscritto
+al Linux Day 2013 a cura del presidente Simone Bignetti.
+
+Il 4 ottobre 2013 il Lugotto veniva segnalato sulla LugMap
+all'indirizzo https://lugmap.linux.it/ grazie al
+commit b30e5b8bd482db0027e5d302f0175e0091f97c8c
+del presidente di ILS Roberto Guido sul repository github
+del presidente del Lug di Brescia Andrea Gelmini
+all'indirizzo https://github.com/Gelma/LugMap.
+
+Il 14 ottobre 2013 Roberto Guido segnalava la nascita del Lugotto
+tramite una mail sulla mailing list del Lug di Brescia.
+La mail aveva oggetto:
+
+            "E' nato il Lugotto"
+
+Con questa mail il Lugotto iniziava la sua vita
+pubblica e riceveva congratulazioni e sostegno dagli
+altri Lug vicini e meno vicini.
+
+Sarebbe stato l'inizio di una fantastica avventura.

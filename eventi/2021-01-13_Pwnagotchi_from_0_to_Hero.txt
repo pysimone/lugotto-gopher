@@ -1,0 +1,10 @@
+Mercoledì 13 gennaio 2021 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Pwnagotchi from 0 to Hero -
+
+Pwnagotchi è un dispositivo che aiuta a crackare le reti Wi-Fi.
+Costituito da un Raspberry Pi, un battery pack e
+uno schermo e-Ink è in grado di ridare vita ad un
+Tamagotchi anni '90 in salsa hacker.
+A cura di Daniele Barattieri del MuHack.

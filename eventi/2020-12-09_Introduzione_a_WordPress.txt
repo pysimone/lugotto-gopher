@@ -1,0 +1,15 @@
+Mercoledì 9 dicembre 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Introduzione a WordPress -
+
+Cos'è WordPress e come installarlo.
+Ci sarà una panoramica delle funzionalità di base e
+l'introduzione al mondo dei temi e dei plugin.
+Seguirà una presentazione della community di sviluppo
+di WordPress e delle possibilità di contribuzione.
+Infine, non potrà mancare una carrellata di risorse utili online.
+A cura di Luisa Ravelli, un membro storico del Lug di Brescia e
+coordinatrice di molte iniziative tra cui il Linux Day.
+Attualmente è consulente informatica e
+membro GTE della community italiana di WordPress.

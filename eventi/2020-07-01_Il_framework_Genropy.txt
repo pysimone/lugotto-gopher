@@ -1,0 +1,22 @@
+Mercoledì 1 luglio 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Il framework Genropy -
+
+Genropy è un framework per scrivere Single Page Applications,
+usando principalmente Python.
+Il framework è rilasciato in licenza LGPL e
+permette di creare in tempi rapidissimi applicazioni
+desktop-like offrendo una soluzione integrata
+dalla GUI, all’ORM e al deploy.
+A cura di Giovanni Porcari, ingegnere chimico per formazione
+e informatico per vocazione, ha iniziato a scrivere codice
+nel lontano 1974 e da allora ha sempre cercato di innovare e
+cercare soluzioni fuori dagli schemi.
+A cura di Francesco e Saverio Porcari: Laureati in ingegneria
+informatica hanno partecipato sin dall’inizio
+alla creazione di Genropy e seguono attivamente
+sia il framework che lo sviluppo di Erpy
+(il software gestionale scritto in Genropy) e
+di molti altri applicativi scritti sempre in Genropy
+per svariati clienti.

@@ -1,0 +1,10 @@
+Mercoledì 17 giugno 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Creare un mini laboratorio con Proxmox -
+
+Proxmox è una piattaforma open-source per la virtualizzazione.
+Con l'interfaccia web integrata permette di gestire
+agevolmente macchine virtuali, contenitori ecc..
+A cura di Michele Giacomoli, presidente del LugMan e
+a cura di Vincenzo Oliviero, sistemista e membro storico del Lugotto.

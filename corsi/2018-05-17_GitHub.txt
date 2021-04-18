@@ -1,0 +1,15 @@
+Giovedì 17 maggio 2018 ore 20:45
+in via Cesare Battisti 2 a Verolavecchia (BS)
+
+- GitHub -
+
+Un corso su Git:
+#1 Cos'è Git
+#2 Terminologia
+#3 Funzionamento base
+#4 Setup
+#5 Componenti e comandi
+#6 Pratica
+#7 Link utili
+
+a cura di Stefano Castiglia.

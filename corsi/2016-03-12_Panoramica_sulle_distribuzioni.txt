@@ -1,0 +1,12 @@
+Sabato 12 marzo 2016 dalle 09:00 alla 11:00
+presso la Biblioteca comunale di Gottolengo (BS)
+
+- Lezione 2 -
+Panoramica sulle distribuzioni. La distro UBUNTU-MATE.
+
+La distribuzione Ubuntu-Mate.
+Accedere al PC, varie informazioni di base:
+aprire le finestre, fare copia-incolla, taglia e incolla,
+cancellare, ripristinare, aprire e chiudere un programma.
+Domande & Risposte.
+Prove pratiche.

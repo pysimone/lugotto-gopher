@@ -1,0 +1,9 @@
+Mercoledì 8 luglio 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Home Assistant, domotica a misura di opensource -
+
+La domotica e l'Home Assistant resi fruibili
+grazie al software libero e open source.
+A cura di Stefano Castiglia, programmatore professionista,
+frontend web developer e appassionato del mondo Linux.

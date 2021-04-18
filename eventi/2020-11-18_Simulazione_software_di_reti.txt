@@ -1,0 +1,10 @@
+Mercoledì 18 novembre 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Packet Tracer: no, grazie -
+
+Prendendo spunto da Packet Tracer di Cisco,
+un sistema per simulare le reti via software,
+ma utilizzando software open source a tutti i costi,
+è nato questo sistema.
+A cura del prof. Stefano Salvi del Lug di Mantova.

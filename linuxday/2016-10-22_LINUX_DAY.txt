@@ -1,0 +1,27 @@
+Sabato 22 ottobre 2016
+a Montichiari presso l'Istituto di Istruzione Superiore "Don Milani"
+
+- LINUX DAY 2016: 1+1=10 Il Coding -
+
+Talk
+#09:00 - 09:45 Programmare su Linux,
+               a cura di Simone Giacomelli.
+#09:45 - 10:00 Software Open Source, Software Libero,
+               a cura di Giambattista Ducoli.
+#10:05 - 10:50 La privacy nell'era di Internet,
+               a cura di Vincenzo Oliviero.
+#10:50 - 11:35 Basi di Sicurezza Informatica,
+               a cura di Vincenzo Oliviero.
+#11:35 - 12:20 Sviluppo Web e Open Source,
+               a cura di Paolo Ferretti.
+
+Workshop
+#10:05 - 11:35 + 11:40 - 12:50 Stampanti 3D,
+                               a cura di Claudio Tregambe.
+#10:05 - 11:35 + 11:40 - 12:50 Come creare una App,
+                               a cura della dott.sa Silvia Cibola.
+#10:05 - 11:35 + 11:40 - 12:50 Python e Arduino,
+                               a cura dell'ing. Simone Bignetti.
+
+Sono resi disponibili gratuitamente
+vademecum del Software Libero e CD d'installazione.

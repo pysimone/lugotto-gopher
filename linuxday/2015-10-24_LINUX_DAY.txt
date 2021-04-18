@@ -1,0 +1,31 @@
+Sabato 24 ottobre 2015
+a Leno presso l'Istituto di Istruzione Superiore "V. Capirola"
+
+- LINUX DAY 2015: Stile Libero -
+
+Talk
+#09:00 - 09:20 Introduzione ai concetti di Open Source, Linux e Software Libero,
+               a cura di Edoardo Maria Elidoro.
+#09:30 - 10:10 Collaborare alla creazione e allo sviluppo di un Software Libero,
+               a cura di Paolo Ferretti.
+#10:20 - 11:20 Sicurezza informatica su internet,
+               a cura di Vincenzo Oliviero.
+#11:30 - 12:00 Ma fatti i 'cloud tuoi!' Introduzione a owncloud,
+               a cura di Paolo Zanotti.
+#12:10 - 13:00 Produzione musicale con Linux e strumenti Open Source,
+               a cura di Domenico Fabiano.
+
+Workshop 1
+#09:30 - 13:00 Realizzazione di un controllo numerico minimale ad un asse,
+               a cura di Simone Bignetti.
+
+Workshop 2
+#09:30 - 13:00 Installazione e manutenzione di una distribuzione GNU\Linux,
+               a cura di Giambattista Ducoli e Matteo De Lorenzi.
+
+Workshop 3
+#09:30 - 13:00 Come funziona una stampante 3D,
+               a cura di Claudio Tregambe.
+
+Sono resi disponibili gratuitamente
+vademecum del Software Libero e CD d'installazione.

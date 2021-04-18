@@ -1,0 +1,20 @@
+Mercoledì 17 marzo 2021 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Esperimenti con rtl-sdr -
+
+RTL-SDR è una pennetta SDR da 500 kHz a 1,8 GHz
+con chip R820T2 RTL2832U 1PPM TCXO SMA.
+Questo dispositivo è ottimo per molte applicazioni tra cui
+radio scanner, controllo del traffico aereo, radio di sicurezza pubblica,
+ADSB, AIS, ACARS, radio digitale P25, POCSAG,
+palloni meteorologici, APRS, satelliti meteo APT NOAA,
+radioastronomia, monitoraggio dispersione di meteora,
+DAB o per l'uso come panadapter a basso costo
+con un radioamatore tradizionale.
+A cura di Angelo Boccalari, ragioniere programmatore e
+di professione magazziniere.
+Appassionato di informatica e linuxiano dal 2005.
+Membro del LUGMAN dove ha trovato compagni di strada e professori capaci.
+Al motto "la sperimentazione e la curiosità sono l'anima della conoscenza"
+si è dato da fare in diversi campi, tra i quali l'informatica.

@@ -1,0 +1,11 @@
+Mercoledì 29 aprile 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Docker, Let's Encrypt e Nginx -
+
+Docker, Let's Encrypt e Nginx:
+esporre servizi sul web con certificati SSL gratuiti.
+A cura di Stefano Castiglia, frontend web developer e
+appassionato del mondo Linux.
+A cura di Edoardo Maria Elidoro,
+sistemista appassionato del mondo Linux.

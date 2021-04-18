@@ -1,0 +1,11 @@
+Mercoledì 8 aprile 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Django basics -
+
+Nozioni di base su come installare e configurare
+django per la generazione di pagine web dinamiche.
+Django è un framework per la generazione dinamica
+di pagine web interamente scritto in python.
+A cura dell'ing. Simone Bignetti, membro del
+Lugotto appassionato di python.

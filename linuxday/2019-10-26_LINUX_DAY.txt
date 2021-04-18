@@ -1,0 +1,30 @@
+Sabato 26 Ottobre 2019
+presso il Musil di Rodengo Saiano
+
+- LINUX DAY 2019: AI, AI, AI! -
+
+Talk
+#10:00 Saluti e Introduzione.
+#10:05 Back to the AI
+       a cura di Giovanni Turra.
+#10:25 No Hat Conference, io c'ero
+       a cura di Vincenzo Oliviero.
+#10:35 Prove pratiche di machine learning
+       a cura dell'ing Emilio Magri.
+#10:50 Il mio primo bot per Telegram
+       a cura della dott.sa Silvia Cibola.
+#11:00 Il progetto Common Voice
+       a cura di Luisa Ravelli.
+#11:25 Sandwich machine
+       a cura dell'ing. Simone Bignetti.
+#11:35 Riconoscimento delle targhe, sembra facile
+       a cura dell'ing. Enrico Donelli.
+#11:45 20 anni di Linux Day a Brescia
+#11:55 Domande e saluti
+
+Workshop
+#14:00 - 18:00 è stato possibile provare hardware e
+               software liberi o portare il proprio PC
+               per essere aiutati nell'installazione o
+               nella configurazione di Linux e altri
+               programmi liberi.
