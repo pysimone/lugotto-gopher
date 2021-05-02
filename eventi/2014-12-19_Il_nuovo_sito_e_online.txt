@@ -1,0 +1,7 @@
+Il 19 dicembre 2014 il nuovo sito è online
+
+     lugotto.linux.it
+
+è ospitato sul server del socio Paolo Zanotti:
+un classico stack LAMP scritto in codice custom
+dallo stesso Paolo Zanotti.
