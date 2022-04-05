@@ -1,0 +1,50 @@
+Mercoledì 30 marzo 2022 alle ore 21:00
+incontro online del Lugotto
+
+- Programmi più o meno noti...
+  condividiamo esperienze -
+
+Una serata informale in cui i partecipanti
+hanno portato qualche esempio ed esperienza
+di software open particolare, speciale,
+trovato/provato per caso in una qualche
+applicazione strana o stramba.
+Insomma una serata Fuori Of Solit Software.
+
+Ecco un elenco di alcuni dei programmi di cui si è parlato:
+
+* avidemux: un programma di editing video
+  particolarmente semplice ed efficace.
+* mvp: un video player minimalista, ma completo.
+* losslesscut: ritaglia parti di video o crea capitoli
+  in pochi istanti, utilizzando i keyframe.
+* posterazor: crea poster di qualsiasi dimensione
+  partendo da un'immagine e unendo i fogli stampati
+* pdfmod: un'applicazione semplice ma potente
+  per modificare file pdf:
+  togliere o aggiungere pagine, ruotarle e combinarle.
+* gprename: per rinominare gruppi di file,
+  come ad esempio foto, in pochi click e
+  con la massima flessibilità.
+* minder: crea bellissime mappe mentali
+  in modo semplice ed elegante.
+* qcad: un CAD 2D potente e completo,
+  con la massima compatibilità con i file dwg.
+* sponsorblock: toglie i noiosi inserti pubblicitari
+  dai video di youtube.
+* LibreOffice Get Rest Plugin: un plugin di libreoffice
+  per ottenere da internet dati ed incorporarli facilmente
+  in un documento di libreoffice.
+* keepax: tieni tutte le tue password al sicuro
+  anche sul cloud.
+* nextcloud: il tuo cloud personale:
+  mantieni il controllo dei tuoi file.
+* emby: un media server per avere i tuoi video e
+  le tue musiche sempre disponibili.
+* qbittorrent: scaricare torrent da internet.
+* transmission: remote gui un front-end.
+  per controllare da remoto un bit torrent transmission.
+* svp: ricodifica i tuoi video a frame rate superiore.
+* zeit: una GUI per crontab e at.
+
+L'incontro è avvenuto online sui server di #iorestoacasa.work
