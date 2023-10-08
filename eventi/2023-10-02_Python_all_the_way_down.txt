@@ -1,0 +1,16 @@
+Lunedì 2 ottobre alle ore 20:30
+incontro online del Lugotto
+
+- Python all the way down:
+  Seamless Server and
+  in-Browser web programming
+  with wwwpy, Pyodide and WASM
+
+Simone Giacomelli condivide col gruppo del Lugotto
+una delle sue grandi passioni!
+Un’anteprima esclusiva del suo prossimo intervento a
+PyCon Es 2023 intitolato
+“Python all the way down:
+Seamless Server and in-Browser
+web programming with wwwpy,
+Pyodide and WASM."
