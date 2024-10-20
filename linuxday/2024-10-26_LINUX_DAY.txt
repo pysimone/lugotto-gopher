@@ -1,0 +1,55 @@
+Sabato 26 ottobre 2024 dalle 09:30 alle 17:30
+Linux Day a Brescia
+
+Il Lugotto in collaborazione col Comune di Brescia,
+col Sistema Bibliotecario Urbano e
+con la Rete Bibliotecaria Bresciana e Cremonese
+organizzano il Linux Day a Brescia,
+promosso dalla Italian Linux Society.
+
+Il Linux Day è una manifestazione a carattere nazionale
+e si terrà in tutta Italia il giorno 26 ottobre.
+
+Quest'anno si terrà anche a Brescia
+presso la Biblioteca "Vladimiro Ghetti"
+in Piazza Luigi Buffoli 16.
+
+L'accesso al Linux Day è sempre libero e gratuito!
+
+In mattinata si terranno dei brevi talk
+riguardanti software free e open source.
+
+"Presentazione del progetto Ufficio Zero Linux OS e del suo team."
+con Julian e Adriano.
+
+"Attivismo gentile e la riconquista del proprio tempo."
+con Edoardo.
+
+"La vita di un maintainer. Come e perché contribuire all'opensource."
+con Andrea Manzini.
+
+"CTF World: le competizioni di sicurezza informatica,
+breve overview e consigli su come muovere i primi passi."
+con Daniele Barattieri.
+
+"Open Source: il motore segreto dell'innovazione.
+Dallo sviluppo al cloud, come le aziende massimizzano
+il ROI col software libero."
+con Paolo Ferretti.
+
+"Freecad un CAD 3D open source."
+con Simone.
+
+Verrà adibita all'ingresso della biblioteca una postazione
+per creare gratuitamente chiavette d'installazione
+di Ufficio Zero Linux.
+Basterà portare con sé una chiavetta USB di almeno 4GB.
+
+Nel pomeriggio si terranno workshop su
+coding, retro-gaming e stampa 3D.
+
+Coding per i più piccoli con Scratch Junior a cura di Silvia.
+
+Batocera Linux video giochi arcade con Simone e Diego.
+
+Stampa 3D con Edoardo.
