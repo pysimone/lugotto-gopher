@@ -1,0 +1,42 @@
+Sabato 25 ottobre 2025 dalle 09:30 alle 17:30
+Linux Day a Brescia
+
+Il Lugotto e Italian Linux Society sezione di Brescia,
+col Comune di Brescia,
+col Sistema Bibliotecario Urbano e
+con la Rete Bibliotecaria Bresciana e Cremonese
+organizzano il Linux Day a Brescia,
+
+Il Linux Day è una manifestazione a carattere nazionale
+e si terrà in tutta Italia il giorno 25 ottobre.
+
+Quest'anno si terrà a Brescia
+presso la Biblioteca "Vladimiro Ghetti"
+in Piazza Luigi Buffoli 16.
+
+L'accesso al Linux Day è sempre libero e gratuito!
+
+In mattinata si terranno dei brevi talk
+riguardanti software free e open source.
+
+"The GanttProject"
+con Simone Bignetti.
+
+"Introduzione al Kernel Linux"
+con Andrea Manzini.
+
+"Intelligenza Artificiale"
+con Vincenzo Oliviero.
+
+"Astrofotografia Open Source: il cielo è per tutti"
+con Marco Manenti.
+
+"WordPress, contribuire ad un progetto open source"
+con Luisa Ravelli.
+
+"Giorni di un futuro passato"
+con Andrea Gelmini.
+
+
+Nel pomeriggio si terranno workshop su
+coding, kubernetes e astrofotografia.

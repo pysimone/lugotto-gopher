@@ -38,7 +38,7 @@ il ROI col software libero."
 con Paolo Ferretti.
 
 "Freecad un CAD 3D open source."
-con Simone.
+con Simone Bignetti.
 
 Verrà adibita all'ingresso della biblioteca una postazione
 per creare gratuitamente chiavette d'installazione

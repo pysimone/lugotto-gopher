@@ -1,0 +1,32 @@
+Sabato 15 novembre 2025 dalle 09:30 alle 17:30
+Linux Day Reloaded a Brescia
+
+Il Lugotto e Italian Linux Society sezione di Brescia,
+col Comune di Brescia,
+col Sistema Bibliotecario Urbano e
+con la Rete Bibliotecaria Bresciana e Cremonese
+organizzano il Linux Day Reloaded.
+
+Il Linux Day Reloaded si terrà a Brescia
+presso la Biblioteca "Casazza"
+in via Casazza, 46.
+
+L'accesso al Linux Day Reloaded è libero e gratuito!
+
+In mattinata si terranno dei brevi talk
+riguardanti il Software Libero e Open Source.
+
+"Introduzione al Kernel Linux"
+con Andrea Manzini.
+
+"Privacy"
+con Vincenzo Oliviero.
+
+"Kubernetes da zero"
+con Andrea Manzini.
+
+"FreeCAD"
+con Simone Bignetti.
+
+Nel pomeriggio saranno disponibili postazioni
+per il gaming su Linux con Software Libero e Open Source.

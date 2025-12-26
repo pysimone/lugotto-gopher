@@ -1,17 +1,31 @@
-Il Lugotto è il LUG (Linux User Group) di Gottolengo in provincia di Brescia.
-Siamo un gruppo informale di appassionati di Free & Open Source Software.
+Il Lugotto è il LUG (Linux User Group) di Brescia.
+Siamo un gruppo informale di appassionati di Software Libero e Open Source.
 Non ci sono costi per aderire, ne limiti di età o di provenienza.
-Il Lugotto si è costituito nel 2013 con lo scopo di scambiare informazioni
-su GNU\Linux e di promuovere l'utilizzo del software libero e aperto.
+Il Lugotto si è costituito nel 2013 a Gottolengo (BS)
+con lo scopo di scambiare esperienze e conoscenza su GNU\Linux e
+di promuovere l'utilizzo del Software Libero e Open Source.
 
 # Organizziamo il Linux Day, secondo le indicazioni di ILS.
-# Realizziamo corsi gratuiti sul software libero e aperto.
+# Realizziamo corsi gratuiti sul Software Libero e Open Source.
 # Partecipiamo con stand a fiere dell'informatica e dell'elettronica.
 # Allestiamo Installation Party di numerose distribuzioni Linux.
+# Ci incontriamo periodicamente per smanettare e imparare cose nuove.
 
-Se anche tu sei interessato e vuoi partecipare alla vita del gruppo,
-iscriviti alla mailing list o al gruppo Telegram che trovi sul nostro sito!
-
+Puoi conoscere le nostre attività dal sito:
 www.lugotto.it
 
-Ti aspettiamo!
+Oppure puoi seguirci sul canale Telegram:
+t.me/lugotto
+e sul social Mastodon:
+mastodon.social/@lugotto
+
+Se sei interessato e vuoi partecipare alle nostre attività,
+entra nel nostro gruppo Telegram:
+t.me/lugottolinux
+
+Per conoscerci di persona vieni presso la nostra sede:
+Corso Martiri della Libertà, 24
+25018 Montichiari BS
+Italia
+
+Sei il benvenuto. Ti aspettiamo!

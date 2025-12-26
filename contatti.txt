@@ -1,9 +1,14 @@
 Resta in contatto con noi!
 
-Tramite la mailing list.
-Iscriviti su internet all'indirizzo: https://lists.linux.it/listinfo/lugotto
+Tramite Telegram:
+Entra nel gruppo https://t.me/lugottolinux
+Segui il canale https://t.me/lugotto
 
-Tramite Telegram.
-Connettiti con Telegram all'indirizzo: https://t.me/lugottolinux
+Seguici sui social:
+https://mastodon.social/@lugotto
 
-Puoi mandare una mail a simone.bignetti@linux.it
+Manda una mail a:
+simone.bignetti@linux.it
+
+Visita il sito:
+https://lugotto.it/
