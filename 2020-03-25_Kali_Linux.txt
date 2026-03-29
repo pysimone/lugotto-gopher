@@ -1,0 +1,10 @@
+Mercoledì 25 marzo 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Kali Linux -
+
+Introduzione a Kali Linux e dimostrazione pratica di violazione di un sistema.
+Kali è un progetto open-source specializzato
+per l'esecuzione di test di penetrazione delle reti.
+A cura di Daniele Barattieri, membro del muhack ed esperto di cyber security e
+di Vincenzo Oliviero, sistemista e membro del Lugotto.

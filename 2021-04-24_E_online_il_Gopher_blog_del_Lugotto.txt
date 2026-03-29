@@ -1,0 +1,17 @@
+Domenica 25 aprile 2021
+E' online il Gopher Blog del Lugotto
+
+- Gopher Blog del Lugotto -
+
+In seguito ad un riordino della storia del Lugotto
+è stato creato e messo online questo Gopher Blog,
+dove è ripercorsa a grandi linee la storia del Lugotto.
+I files di questo phlog si trovano anche su github:
+
+     https://github.com/pysimone/lugotto-gopher
+
+Il phlog è mantenuto da Simone Bignetti,
+membro del Lugotto e appassionato di informatica libera.
+
+Potete segnalare eventuali osservazioni sul phlog
+inviando una mail a simone.bignetti@linux.it

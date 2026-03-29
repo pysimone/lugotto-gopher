@@ -1,0 +1,11 @@
+Mercoledì 18 marzo 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Proxmox -
+
+Una introduzione a Proxmox: una piattaforma open-source
+per la virtualizzazione.
+Proxmox con l'interfaccia web integrata permette
+di gestire agevolmente macchine virtuali, contenitori ecc..
+A cura di Michele Giacomoli, presidente del LugMan e di
+Vincenzo Oliviero professionista e sistemista IT del Lugotto.

@@ -1,0 +1,17 @@
+Sabato 27 Ottobre 2018
+in via Cesare Battisti 2 a Verolavecchia (BS)
+
+- LINUX DAY 2018: World Wide Web -
+
+Talk dalle 08:50 alle 12:15
+# Introduzione al software libero.
+# Come funziona il web: introduzione per neofiti.
+# Bitcoin, blockchain e libertà del web.
+# I social.
+
+Workshop dalle 14:00 alle 18:00
+# Gimp & dintorni.
+# Prove di mining.
+# Sperimentiamo python.
+# Install party.
+# Gaming su Linux.

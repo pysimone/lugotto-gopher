@@ -1,0 +1,7 @@
+Mercoledì 11 marzo 2020 ore 21:00
+evento online all'indirizzo http://www.lugotto.it/serate
+
+- Introduzione ai database -
+
+Un'introduzione alle basi della struttura di un database relazionale.
+A cura dell'ing. Emilio Magri: programmatore e sistemista.
